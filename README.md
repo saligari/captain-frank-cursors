@@ -3,7 +3,7 @@
 ![](preview.png)
 
 This is an x-cursor theme ~copied from~ heavily based on Capitaine cursors and [elementary (redesigned for Linux Mint)](https://github.com/AlessandroBusolin/elementary-cursors-for-Linux-Mint) cursors icon theme.
-The source files were made in Inkscape, 
+The source files were made in Inkscape.
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
