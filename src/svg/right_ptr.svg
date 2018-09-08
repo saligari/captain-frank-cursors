@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg5294"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 32 32"
+   sodipodi:docname="right_ptr.svg">
+  <defs
+     id="defs5296">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5293"
+       x="-0.30867362"
+       width="1.6173472"
+       y="-0.19632228"
+       height="1.3926445">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.490765"
+         id="feGaussianBlur5295" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.197802"
+     inkscape:cx="-9.0942105"
+     inkscape:cy="16"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5299">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(0.83153815,0.87241688,-0.87241688,0.83153815,152.16363,-149.56156)"
+       style="display:inline"
+       id="g4872">
+      <g
+         transform="translate(10.07784,154.29096)"
+         style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter5293)"
+         id="Page-1">
+        <g
+           id="pointer">
+          <g
+             style="opacity:0.01000001;fill:#ffffff"
+             id="bg" />
+          <path
+             style="fill:#000000;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             d="m 12,24.4219 0,-16.015 11.591,11.619 -6.781,0 -0.411,0.124 -4.399,4.272 z"
+             id="point-border" />
+          <path
+             style="fill:#000000;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             d="m 21.0845,25.0962 -3.605,1.535 -4.682,-11.089 3.686,-1.553 4.601,11.107 z"
+             id="stem-border" />
+          <path
+             style="fill:#000000"
+             inkscape:connector-curvature="0"
+             d="m 19.751,24.4155 -1.844,0.774 -3.1,-7.374 1.841,-0.775 3.103,7.375 z"
+             id="stem" />
+          <path
+             style="fill:#000000"
+             inkscape:connector-curvature="0"
+             d="m 13,10.814 0,11.188 2.969,-2.866 0.428,-0.139 4.768,0 L 13,10.814 Z"
+             id="point" />
+        </g>
+      </g>
+      <g
+         transform="translate(9.07784,153.29096)"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+         id="Page-1-3">
+        <g
+           id="pointer-6">
+          <g
+             style="opacity:0.01000001;fill:#ffffff"
+             id="bg-7" />
+          <path
+             style="fill:#ffffff"
+             inkscape:connector-curvature="0"
+             d="m 12,24.4219 0,-16.015 11.591,11.619 -6.781,0 -0.411,0.124 -4.399,4.272 z"
+             id="point-border-5" />
+          <path
+             style="fill:#ffffff"
+             inkscape:connector-curvature="0"
+             d="m 21.0845,25.0962 -3.605,1.535 -4.682,-11.089 3.686,-1.553 4.601,11.107 z"
+             id="stem-border-3" />
+          <path
+             style="fill:#000000"
+             inkscape:connector-curvature="0"
+             d="m 19.751,24.4155 -1.844,0.774 -3.1,-7.374 1.841,-0.775 3.103,7.375 z"
+             id="stem-5" />
+          <path
+             style="fill:#000000"
+             inkscape:connector-curvature="0"
+             d="m 13,10.814 0,11.188 2.969,-2.866 0.428,-0.139 4.768,0 L 13,10.814 Z"
+             id="point-6" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
