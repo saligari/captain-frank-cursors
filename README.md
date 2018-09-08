@@ -1,4 +1,7 @@
 # Captain Frank cursors
+
+![](preview.png)
+
 This is an x-cursor theme ~copied from~ heavily based on Capitaine cursors and elementary (redesigned for Linux Mint) cursors icon theme.
 The source files were made in Inkscape, 
 
@@ -55,5 +58,4 @@ The freshly compiled cursor theme will be located in `dist/`
 
 
 
-## Preview
-![](preview.png)
+
